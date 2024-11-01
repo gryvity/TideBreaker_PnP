@@ -29,7 +29,7 @@ Gesellschaftliche Hierarchie
 - Godblessed Crown (Koenigsfamilie des englisch-daenischen Koenigreichs) und die Himmelskaiserin (das geistliche Oberhaupt der Himmelszitadelle)
 - Dr. Mendelsohn (Obergenetiker der Zenithisten)
 - der Adel von Heavens Crown und die geistliche Elite der Himmelszitadelle
-- Die Meister Genetiker der Zenithisten/ Ingeneure vom Leviathan
+- Die Meister Genetiker der Zenithisten/ Chef-Ingeneure vom Leviathan
 - Sola (die Buergermeisterin von Amanecer und Verwalterin vom Tide breaker) und die rote 13 (der Hohe Rate der Sicherheit)
 - Die Sicherheitspolizei
 - die normale Bevoelkerung in den Sky Harbours (ausser der Bevoelkerung des Vindlænke)
