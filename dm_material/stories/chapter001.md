@@ -1,4 +1,7 @@
-# Chapter 001
+https://howtobeahero.de/index.php?title=Wie_erstelle_ich_ein_Abenteuer%3F
+
+
+ Chapter 001
 
 The Beginning
 
@@ -38,3 +41,44 @@ Sonderermittler (Boris) -
 Dr Xola Kraft
 
 Dr. Mendelsohn - Obergenetiker der Zenithisten
+
+
+
+
+# Plot
+
+## Introduction
+
+Grob der Ablauf. Verdammt zur Arbeit in den Algensuempfen der Tidal Forge (TF002b-1012) im kleinen Straflager TF02-1012-P003 (oder auch Forgotten Port). 
+
+> Zum Verstaendnis TF002b-1012-P003 ->
+
+## The Beginning
+
+Ihr sitzt
+
+
+Welche Moeglichekiten haben die Leute: Das Radio wiederherstellen. Wenn Sie es schaffen dass Radio wieder zum Laufen zu bringen erhalten Sie Kontak mit Alba, eine der wenigen Ueberlebenden aus TF002b-1012-P001. Ihr wuerdet erfahren, dass TF002b-1012 ihres Wissens nach komplet von der roten Flut ueberszugen wurde. Alba hatte noch bis zuletzt Kontakt mit einem Boris.
+
+Die Gruppe kann sich nun entscheiden, den Menschen in P001 zu helfen.
+
+
+Die Gruppe hat die Moeglichkeit folgende Informationen zu sammeln. Ein sonderbares kleines stummes Maedchen hat sich in die Gegend verschlagen. Wenn das kleine Maedchen zu Xola gebracht wird, und Xola irgendwie Ueberlisten, koennte die Gruppe in Erfahrnung bringen, dass der Phaenotypus sehr sonderbar ist. In der Naehe des Lagers, in dem Sie das Maedchen gefunden haben, finden Sie den Leichnam eines Vinds. Bei sich traegt er einen Krypto-Korder, eine Technologie die von den Agenten der Mir benutzt werden. Falls die Gruppe es schafft. Auf dem Krypto-Korder findet die Gruppe eine Nachricht (neben einiger defekter Dateien und einer verschluesselten Nachricht). Aus der Nachricht erfahren Sie dass der Vind mit dem Maedchen auf der Flucht war und sich seit Monaten hier versteckt hielten. Sie wurden eines Tages von Menschen des Lagers P002 gefunde, welche Probleme hatten die rote Flut zurueckzuhalten. Sie erfahren von einen Geheimnis, dass ihnen helfen sollte die rote Flut zurueckzuhalten. Doch eines Tages kam ein Sonderermittler in das Dorf und Seit jeher verstecken Sich der VInd und das Maedchen. 
+
+Falls die Gruppe die Nachricht entschluesseln kann, werden Sie herausfinden, dass der Vind der Vater des kleinen Maedchens ist, und dass das Auffinden beider allerhoechste Prioritaet hat. Das Maedchen sollte um alle Umstaende Lebend gefangen werden. Der Vind musste eliminiert werden.
+
+Die Gruppe kann die Suempfe erkunden, wenn Sie ein Eingangsraetsel von Zoonder und Blitz loesen.
+
+
+Chars die die Gruppe finden kann:
+- Xola (Siedlung P003)
+- Blitz (Hobb Siedlung P003)
+- Zoonda (Hobb Siedlung P003)
+- Alba Dias (Siedlung P001)
+- Soeren (Vater von Eliza)
+- Boris (Sonderermittler)
+- Karla (Vind Siedlung P003)
+- Tala (Madrista Siedlung P003)
+- Zeus (Valdarii Siedlung P001)
+- Eliza (kleines Maedchen)
+

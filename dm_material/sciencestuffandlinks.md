@@ -7,3 +7,7 @@ https://www.mpg.de/21320411/schmelzende-gletscher-groenland
 
 https://vividmaps.com/the-world-with-a-70-meters-sea-level-rise/
 
+
+Ice Cores
+
+https://en.wikipedia.org/wiki/Ice_core

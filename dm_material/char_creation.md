@@ -5,3 +5,10 @@ Ihr seid nun Mudborn. Ausgestoßen aus den Häfen der Rettung, der Sky Harbours,
 > **Für die Charaktererstellung - Hintergrundgeschichte** Ihr überlegt euch bitte von welchem Sky Harbour ihr verbannt wurdet und für welche Taten ihr  nun eure letzten Tage in der Strafkolonie zum schufften verbringen müsst. Die Wahl eurer Herkunft hat in dieser Welt Einfluss, wie ihr von den Menschen im Tide Breaker wahrgenommen werdet, welche Talente euch damit zur Verfügung stehen, und welche Nachteile ihr dadurch genießt. Bedenkt bitte gewisse Limits, die ihr bei der Charaktererstellung beachten solltet: ihr gehörtet nie zu den aller höchsten Schichten innerhalb der Sky Harbours. Das heißt ihr kommt nicht aus der Königsfamilie, den Kreisen der Meistergenetiker*innen, dem hohen Klerus der Himmelszitadelle, seid kein ehemaliger Teil der roten 13 der Mir 
 
 Ihr seid Gefangene der Strafkolonie TF-112-KR002. 
+
+
+Zur Charaktererstellung:
+
+https://howtobeahero.de/images/1/17/How_to_be_a_Hero_Charakterbogen.pdf
+
+https://howtobeahero.de/index.php?title=Kategorie:Charaktererstellung
