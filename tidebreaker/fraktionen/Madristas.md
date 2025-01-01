@@ -12,7 +12,7 @@ Doch Amanecer war ein hektisches Projekt, das aus der Notwendigkeit heraus schne
 
 ## Merkmale
 
-- Hitziges Gemuet (kann in Konflikten schnell das Temprament verlieren, Soziele Interaktionen werden sukzessive erschwert)
+- Hitziges Gemuet (kann in Konflikten schnell das Temprament verlieren, Soziale Interaktionen werden sukzessive erschwert)
 - Heimweh (Malus: -10 auf Überlebensfähigkeiten in der Wildnis; in urbanen oder vertrauten Umgebungen entfällt dieser Malus / mit Nostalgie-Affine Charaktere sind soziale Interaktionen erleichtert)
 
 - Kuenstlerische Inspiration (ein Geistblitzpunkt kann in das Erstellen eines Kunstwerks investiert werden, welches je nach Situation soziale oder finanzielle Vorteile gewähren könnte)

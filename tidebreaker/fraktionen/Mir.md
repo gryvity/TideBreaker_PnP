@@ -1,5 +1,4 @@
-# Vinds
-
+# Mir
 ## Hintergrund
 
 Die Menschen der Mir – die sich selbst schlicht „Mir“ nennen – stammen aus einer Allianz osteuropäischer Staaten, die in der verzweifelten Hoffnung auf Unabhängigkeit und Schutz vor der russischen Besatzung zusammengefunden hatten. Nach einer Reihe von Sabotageakten und gezielten Angriffen auf die Besatzer erkämpften sich die osteuropäischen Widerstandsgruppen eine eigene Identität und bauten eine neue Gemeinschaft auf, die sich im Sky Harbour Mir sammelte.
